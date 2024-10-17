@@ -46,7 +46,5 @@ public class Main {
 
         OdbojkaskiKlub o = new OdbojkaskiKlub("Vojvodina", "Novi Sad", listaIgraca);
         System.out.println(o.odbrambeniAs());
-
     }
-
 }
