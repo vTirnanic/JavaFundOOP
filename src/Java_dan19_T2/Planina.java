@@ -1,4 +1,4 @@
-package Java_dan19_Test2;
+package Java_dan19_T2;
 /*
 Napraviti klasu Planina
 atributi: naziv(String), visina(double ili int) i opasnost(Boolean)

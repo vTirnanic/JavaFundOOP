@@ -1,9 +1,9 @@
-package Java_dan19_Test2;
+package Java_dan19_T2;
 
 import java.util.ArrayList;
 
-public class Rekreativac extends Planinar{
-    public Rekreativac(ArrayList<Planina> listaPl, int maxU) {
+public class Amater extends Planinar{
+    public Amater(ArrayList<Planina> listaPl, int maxU) {
         super(listaPl, maxU);
     }
 
