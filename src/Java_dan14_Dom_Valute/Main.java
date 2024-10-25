@@ -24,9 +24,6 @@ public class Main {
         System.out.println(v);
         System.out.println(v.konvertujUdinare(100)+ " din.");
 
-        // Valuta v1 = (Valuta) new Object(); instaciranje klase kao objekat,
-        // svaka klasa onda nasledjuje klasu objekat
-
         Dolar d = new Dolar(105);
         System.out.println(d);
         System.out.println(d.konvertujUdinare(100) + " din.");
@@ -38,6 +35,5 @@ public class Main {
         System.out.println(e.konvertujUdinare(100)+ " din.");
         e.postaviKursNovi(130);
         System.out.println(e.konvertujUdinare(100) + " din.");
-
     }
 }

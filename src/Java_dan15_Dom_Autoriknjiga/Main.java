@@ -35,10 +35,5 @@ public class Main {
         r.dugometrazniRoman();
         System.out.println(pe.brojZbirki());
         System.out.println(e.kratkiEseji());
-
-
     }
-
-
-
 }
