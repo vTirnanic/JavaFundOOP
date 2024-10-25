@@ -9,5 +9,4 @@ public class Dolar extends Valuta {
     public void postaviKursNovi(double noviKurs) {
         setKurs(noviKurs);
     }
-
 }

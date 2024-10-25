@@ -1,4 +1,4 @@
-package Java_dan15_Dom_Autoriknjiga;
+package Java_dan15_Dom_AutoriKnjiga;
 
 import java.util.ArrayList;
 

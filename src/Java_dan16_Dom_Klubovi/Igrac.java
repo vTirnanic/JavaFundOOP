@@ -1,4 +1,4 @@
-package Java_dan16_Dom_klubovi;
+package Java_dan16_Dom_Klubovi;
 
 public class Igrac {
     private String ime;

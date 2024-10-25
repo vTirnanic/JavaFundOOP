@@ -1,4 +1,4 @@
-package Java_dan15_Dom_Autoriknjiga;
+package Java_dan15_Dom_AutoriKnjiga;
 
 public class Knjiga {
     private String naslov;

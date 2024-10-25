@@ -9,5 +9,4 @@ public class Evro extends Valuta{
     public void postaviKursNovi(double noviKurs) {
         setKurs(noviKurs);
     }
-
 }
